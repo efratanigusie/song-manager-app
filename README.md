@@ -23,7 +23,7 @@ A full-stack application for managing songs (CRUD operations) with a React front
 
 1.  **Clone the repository**:
     ```bash
-    git clone <https://github.com/efratanigusie/song-manager-app.git>
+    git clone https://github.com/efratanigusie/song-manager-app.git
     cd song-management-app
     ```
 2.  **Backend Setup**:
