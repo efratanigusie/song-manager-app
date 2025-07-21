@@ -1,4 +1,4 @@
-# Song Management App (
+# Song Management App
 
 A full-stack application for managing songs (CRUD operations) with a React frontend, Node.js/Express backend, Redux/Redux-Saga for state management, and Jest for testing.
 
@@ -23,7 +23,7 @@ A full-stack application for managing songs (CRUD operations) with a React front
 
 1.  **Clone the repository**:
     ```bash
-    git clone <your-repo-url>
+    git clone <https://github.com/efratanigusie/song-manager-app.git>
     cd song-management-app
     ```
 2.  **Backend Setup**:
